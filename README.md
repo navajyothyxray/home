@@ -1,2 +1,1 @@
-# web
-Navajyothyxray Website
+# navajyothyxray.github.io
